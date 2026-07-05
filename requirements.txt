@@ -24,9 +24,7 @@ jinja2==3.1.2
 python-dotenv==1.0.0
 
 # Optional AI
-groq==0.4.0  # For AI Chat
+groq==0.4.0
 
 # Optional Metrics
-psutil==5.9.6  # For system metrics
-
-reportlab
+psutil==5.9.6
