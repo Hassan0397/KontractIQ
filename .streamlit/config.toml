@@ -1,0 +1,23 @@
+[theme]
+primaryColor = "#2C5F8A"
+backgroundColor = "#E8F1F8"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#0A2647"
+font = "sans serif"
+
+[server]
+maxUploadSize = 10
+enableXsrfProtection = true
+# enableCORS is controlled by XSRF protection
+
+[browser]
+gatherUsageStats = false
+
+[global]
+developmentMode = false
+
+[logger]
+level = "info"
+
+[client]
+showErrorDetails = true
