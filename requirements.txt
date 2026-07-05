@@ -1,8 +1,0 @@
-streamlit
-pandas
-plotly
-PyPDF2
-pdfplumber
-python-docx
-scikit-learn
-reportlab
