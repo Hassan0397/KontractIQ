@@ -1734,4 +1734,4 @@ SOFTWARE.
 
 ## ⚖️ KontractIQ — Intelligence for every clause.
 
-*Thiw qpp is Built by Hassan Subhani*
+*Thiw app is Built by Hassan Subhani*
