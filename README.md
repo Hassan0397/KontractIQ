@@ -10,7 +10,7 @@
 
 ## 🌟 Overview
 
-This document has been GitHub-optimized with a professional structure, tables, badges, callouts, and clean formatting.
+This document provides a comprehensive overview of KontractIQ, including its architecture, features, workflows, AI capabilities, technology stack, implementation details, user experience, security considerations, and future roadmap. It has been professionally structured and optimized for GitHub with clean formatting, badges, tables, diagrams, callouts, and well-organized sections to ensure excellent readability for recruiters, hiring managers, collaborators, and open-source contributors.
 
 ---
 
