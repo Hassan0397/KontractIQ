@@ -920,44 +920,6 @@ RAG Analyzer is experimental and not production-ready. KontractIQ is fully produ
 
 ---
 
-## 12. FUTURE ENHANCEMENTS
-
-### Phase 2 (3-6 Months)
-
-**5 More Clause Types (13 Total):**
-Expanding to 13 clause types will capture more contract provisions. Planned additions include assignment, entire agreement, severability, waivers, and amendment clauses.
-
-**Risk Trend Over Time:**
-With import history tracking, users will see how risk profiles change over time. This enables trend analysis and remediation tracking.
-
-**PDF OCR Support:**
-Integration with Tesseract OCR will enable processing of scanned PDFs. This removes the biggest limitation for users with legacy scanned contract archives.
-
-**Custom User Templates:**
-Users will create and share custom templates. This enables organizations to standardize contract creation across teams.
-
-**Batch Export All Contracts as ZIP:**
-Export entire contract portfolios with one click. This simplifies data migration and backup.
-
-### Phase 3 (6-12 Months)
-
-**Optional Sentence-Transformers:**
-User-opt-in for more advanced semantic search. This provides better relevance for complex queries while maintaining the option for lightweight operation.
-
-**Anonymous Peer Comparison:**
-Opt-in data sharing for anonymous benchmarking. Organizations can compare their contract terms to industry peers.
-
-**Team Collaboration:**
-Shared sessions for team analysis. Multiple users can work on the same contract portfolio simultaneously.
-
-**API Access for Programmatic Use:**
-REST API for external integrations. Developers can incorporate KontractIQ capabilities into their own applications.
-
-**Mobile App:**
-Native mobile applications for iOS and Android. Contract intelligence available anywhere, anytime.
-
----
-
 ## 13. PROJECT METRICS AND SPECIFICATIONS
 
 ### Feature Metrics
