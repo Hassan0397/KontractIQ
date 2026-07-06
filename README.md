@@ -1734,4 +1734,4 @@ SOFTWARE.
 
 ## ⚖️ KontractIQ — Intelligence for every clause.
 
-*Thiw app is Built by Hassan Subhani*
+*This app is Built by Hassan Subhani*
