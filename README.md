@@ -1688,8 +1688,8 @@ KontractIQ represents the **future of contract intelligence**: powerful, accessi
 |--------|---------|
 | **Developer** | Hassan Subhani |
 | **Email** | hassansubhani822@gmail.com |
-| **GitHub** | @hassansubhani |
-| **LinkedIn** | Hassan Subhani |
+| **GitHub** | @Hassan0397
+| **LinkedIn** | itshassansubhani |
 
 ---
 
@@ -1734,4 +1734,4 @@ SOFTWARE.
 
 ## ⚖️ KontractIQ — Intelligence for every clause.
 
-*Built with ❤️ by Hassan Subhani*
+*Thiw qpp is Built by Hassan Subhani*
